@@ -1,3 +1,3 @@
 # hello-world
 Heippa maailma systeemi.
-Tähän vähän lisää juttua.
+Ei ollutkaan hyvä idea.
